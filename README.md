@@ -7,6 +7,11 @@ In **Neptune’s Pulse**, we simulate these effects mathematically using a **sin
 
 ---
 
+# Set Up
+Download all files and put them in one folder and open that folding in prossesing 4.
+
+---
+
 ## Moon Phases and Their Effects
 
 Each moon phase influences the **tide amplitude** (height difference between high and low tide) differently.  
